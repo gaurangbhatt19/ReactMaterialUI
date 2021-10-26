@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.inc {
+  margin-right: 4px;
+}
+.dec {
+  margin-left: 2px;
+  color: white;
+}
